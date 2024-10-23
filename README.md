@@ -1,6 +1,6 @@
-# TypeScript App Starter
+# Javascript App Starter
 
-This repository provides a minimal setup for running an InternalStack app server using TypeScript, making it simple to kickstart your development process.
+This repository provides a minimal setup for running an InternalStack app server using Javascript, making it simple to kickstart your development process.
 
 ## Getting Started
 
