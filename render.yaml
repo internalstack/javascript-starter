@@ -1,0 +1,14 @@
+# Exported from Render on 2024-10-20T19:08:59Z
+services:
+- type: worker
+  name: javascript-starter
+  runtime: node
+  repo: https://github.com/internalstack/javascript-starter
+  plan: starter
+  envVars:
+  - key: INTERNALSTACK_API_KEY
+    sync: false
+  region: oregon
+  buildCommand: pnpm install --frozen-lockfile
+  startCommand: npm run start
+version: "1"

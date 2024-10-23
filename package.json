@@ -1,0 +1,19 @@
+{
+  "name": "@internalstack/javascript-starter",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.ts",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Alex Fong <alex@internalstack.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "@internalstack/server": "1.0.10"
+  }
+}
