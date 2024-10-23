@@ -4,7 +4,7 @@ This repository provides a minimal setup for running an InternalStack app server
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/cvyf_R?referralCode=K_LR7W)
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/internalstack/typescript-starter)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/internalstack/javascript-starter)
 
 ## Getting Started
 
